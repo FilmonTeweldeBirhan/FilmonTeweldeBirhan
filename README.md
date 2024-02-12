@@ -1,4 +1,4 @@
-![nodejs and mongodb logo](https://miro.medium.com/v2/resize:fit:875/1*ay9nx1XdZ3AOzx5Ev8xJEg.png)
+![nodejs + mongodb + express logo](https://miro.medium.com/v2/resize:fit:875/1*M10QaO1mZCk_jvH2EBNmaQ.jpeg)
 
 (() => {
   console.log(`
