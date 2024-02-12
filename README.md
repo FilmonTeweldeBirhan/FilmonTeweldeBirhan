@@ -35,5 +35,5 @@ As a passionate backend developer, I bring a wealth of expertise and enthusiasm 
       <img src="images/php.png" style="width: 150px" alt="Image 11" style="max-width: 100%" />
     </div>
 
-    Let's collaborate and bring your ideas to life! 🌈 Feel free to reach out 
+    Let's collaborate and bring your ideas to life! 🌈 Feel free to reach out @filmontewelde415@gmail.com
     I'm always up for a coding challenge or a chat about the latest tech trends. 📫
