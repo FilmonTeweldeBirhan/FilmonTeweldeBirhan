@@ -12,7 +12,7 @@
       />
       <img
         src="images/git.png"
-        style="width: 200px"
+        style="width: 300px"
         alt="Image 5"
         style="max-width: 100%"
       />
