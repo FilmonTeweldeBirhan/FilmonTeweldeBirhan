@@ -1,4 +1,5 @@
-![nodejs logo](https://images.app.goo.gl/NvP11QS5csG7YUmu7)
+![nodejs and mongodb logo](https://miro.medium.com/v2/resize:fit:875/1*ay9nx1XdZ3AOzx5Ev8xJEg.png)
+
 (() => {
   console.log(`
   - 👋 Hi, I’m @FilmonTeweldeBirhan
