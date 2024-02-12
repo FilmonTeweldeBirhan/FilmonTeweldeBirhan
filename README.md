@@ -1,3 +1,4 @@
+# Hi there i'm filmon a backend developer with a lot to contribute. and these are my skills among many ofcourse:
 <div
       style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px"
     >
@@ -12,7 +13,7 @@
       />
       <img
         src="images/git.png"
-        style="width: 300px"
+        style="width: 200px"
         alt="Image 5"
         style="max-width: 100%"
       />
@@ -24,13 +25,3 @@
       <img src="images/socket.io.png" style="width: 150px" alt="Image 10" style="max-width: 100%" />
       <img src="images/php.png" style="width: 150px" alt="Image 11" style="max-width: 100%" />
     </div>
-
-(() => {
-console.log(`
-
-- 👋 Hi, I’m @FilmonTeweldeBirhan
-- 👀 looking for coding challenges! and of course sharing different ideas about coding:)
-- 🌱 Currently learning Advanced Nodejs.
-- 💞️ interested in JavaScript, Nodejs, mongodb, express...
-- 📫 You can contact me filmontewelde415@gmail.com`);
-  })();
